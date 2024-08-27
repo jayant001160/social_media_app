@@ -17,17 +17,17 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     const OnboardingPage(
       title: 'Welcome to Our App',
       description: 'This is a great app that helps you do amazing things.',
-      imagePath: 'assets/images/onboarding1.png',
+      imagePath: 'assets/images/onboarding1.webp',
     ),
     const OnboardingPage(
       title: 'Stay Organized',
       description: 'Manage your tasks efficiently and stay on top of your work.',
-      imagePath: 'assets/images/onboarding2.png',
+      imagePath: 'assets/images/onboarding2.webp',
     ),
     const OnboardingPage(
       title: 'Achieve Your Goals',
       description: 'Set goals and track your progress with our app.',
-      imagePath: 'assets/images/onboarding3.png',
+      imagePath: 'assets/images/onboarding3.webp',
     ),
   ];
 
