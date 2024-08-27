@@ -30,7 +30,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  # State management
+  flutter_bloc:
+  equatable:
+
+  # Image picker
+  image_picker:
+
+  # Google Maps
+  google_maps_flutter:
+
+  # Firebase dependencies
   firebase_core:
+  firebase_auth:
+  cloud_firestore:
+
+  # Optional: State management
+  provider:
+
 
 
   # The following adds the Cupertino Icons font to your application.
