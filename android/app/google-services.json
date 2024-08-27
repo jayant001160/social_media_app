@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119774208138",
+    "project_id": "socialm-cc87d",
+    "storage_bucket": "socialm-cc87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119774208138:android:52f68da0e2040699e28d73",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDBRPaw8NNMxV-9w7TRPp0ftxqH0dIHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
